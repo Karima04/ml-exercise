@@ -42,5 +42,3 @@ plt.scatter(x_test_norm[:,2:3], y_test)
 plt.xlabel('PS')
 plt.ylabel('mpg')
 plt.show()
-
-
